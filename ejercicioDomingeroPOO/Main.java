@@ -1,4 +1,4 @@
-package ejercicio;
+package ejercicioDomingeroPOO;
 
 public class Main {
     public static void main(String[] args) {
