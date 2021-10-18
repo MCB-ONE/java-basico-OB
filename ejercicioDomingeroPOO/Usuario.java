@@ -1,4 +1,4 @@
-package ejercicio;
+package ejercicioDomingeroPOO;
 
 import java.sql.Date;
 
