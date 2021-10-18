@@ -1,4 +1,4 @@
-package ejercicio;
+package ejercicioDomingeroPOO;
 
 public interface AccionesLog {
     public boolean logIn(String nombre, String password);
