@@ -1,4 +1,4 @@
-package ejercicio;
+package ejercicioDomingeroPOO;
 
 public class Administrador implements AccionesLog{
     private String nombre;
